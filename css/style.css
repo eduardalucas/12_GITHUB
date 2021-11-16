@@ -1,0 +1,41 @@
+      @charset "UTF-8";
+
+      .p2 {
+        color:darkorange;
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+
+      .c2 {
+        background: orange;
+        color: white;
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+
+      .a2{
+        color: darkorange;
+        text-decoration: none;
+      }
+
+      .l2{
+        color: orange;
+      }
+
+      #i2{
+        width: 200px;
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+      }
+
+      #i3{
+        width: 350px;
+        height: 350px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+      }
